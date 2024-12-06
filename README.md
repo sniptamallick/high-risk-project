@@ -10,7 +10,6 @@ Before setting up the project, ensure you have the following:
 
 - **Python**: Version 3.8 or higher.
 - **Git**: For cloning the repository.
-- **Packages**: All dependencies are listed in the `requirements.txt` file.
 - **API Keys**:
   - ClinicalTrials.gov API (if required for enhanced access).
   - OpenAI GPT API key for querying match scores.
